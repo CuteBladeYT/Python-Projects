@@ -1,2 +1,2 @@
 # Python-Projects
-normal python and PyQt5 projects
+standard python and PyQt5 projects
